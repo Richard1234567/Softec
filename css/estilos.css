@@ -1,0 +1,384 @@
+@charset "utf-8";
+/* CSS Document */
+
+nav {
+    height: 75px;
+    width: 100%;
+    background: #58ACFA;
+    position: relative;
+    border-bottom: solid 2px #ddd;
+}
+
+
+ ul {
+    padding: 0;
+    margin: 0 auto;
+    width: 950px;
+    height: 40px;
+
+}
+
+
+ li {
+    display: inline;
+    float: left;
+    margin: 10 10 0 0px;
+}
+
+ li.a {
+    display: inline;
+    float: right;
+    margin: -10 0 0 0px;
+}
+
+ a {
+    color: #fff;
+    display: inline;
+    width: 50px;
+    margin: 0 0 0 20px;
+    text-align: center;
+    line-height: 20px;
+}
+
+img {
+	width: 130px;
+	height: 50px;
+	margin: 10 0 -40 25px;
+}
+
+footer{
+	width: 100%;
+	height: auto;
+	background: #ccc;
+	border-bottom: 1px solid #CCCCCC;
+	border-top: 1px solid #DDDDDD;
+	position: relative;
+}
+
+.productos{
+width:260px;
+height:155px;
+margin:20px -120px -20px 140px;
+float:left;
+color:#000000;
+border:solid 1px #cccccc;
+-moz-border-radius: 7px;
+-webkit-border-radius: 7px;
+border-radius: 7px;
+}
+
+.productos1{
+width:260px;
+height:155px;
+margin:30px -120px -30px 140px;
+float:left;
+color:#000000;
+border:solid 1px #cccccc;
+-moz-border-radius: 7px;
+-webkit-border-radius: 7px;
+border-radius: 7px;
+}
+
+.productos2{
+width:260px;
+height:155px;
+margin:40px -120px -30px 140px;
+float:left;
+color:#000000;
+border:solid 1px #cccccc;
+-moz-border-radius: 7px;
+-webkit-border-radius: 7px;
+border-radius: 7px;
+}
+
+.img-div {
+	width: 100px;
+	height: 100px;
+
+}
+
+.h5{
+	font-family: Georgia, Cambria, Times, "Arial";
+	font-size: 11pt;
+	color:#58ACFA;
+	margin: -90 -10 0 120px;
+
+}
+
+button {
+    background: #58ACFA;
+    margin: 0 35 0 -30px; 
+    width: 150px;
+    height: 35px;
+    border:hidden 3px #000000;
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+    border-radius: 16px;
+    color: #fff;
+}
+
+.div-buscador {
+    width: 97%;
+    height: 31px;
+    background: #EEEBEB;
+    margin: 40 0 0 20px;
+}
+
+.nuevo-user{
+    margin: 0 0 -30 1181px;
+    width: 160px;
+}
+
+.nuevo-user2{
+    margin: 0 0 0 1050px;
+}
+
+.btn-accion-imprimir{
+    background: #FA5858;
+    width: 140px;
+    height: 40px;
+    font-family: Georgia, Cambria, Times, "Arial";
+}
+
+.btn-accion-user{
+    background: #F9C246;
+    width: 160px;
+    height: 30px;
+    font-family: Georgia, Cambria, Times, "Arial";
+}
+
+.btn-accion-producto{
+    background: #F9C246;
+    width: 170px;
+    height: 30px;
+    font-family: Georgia, Cambria, Times, "Arial";
+    margin: 0 0 0 -30px;
+}
+
+.btn-accion-user3{
+    background: #F9C246;
+    width: 170px;
+    height: 40px;
+    font-family: Georgia, Cambria, Times, "Arial";
+}
+
+
+.button1 {
+
+    background: #F9C246;
+    width: 90px;
+    height: 30px;
+}
+
+.tabla {
+    width: 97%;
+    height: 40px;
+    background: #F9B133;
+    margin: -10 0 0 20px;
+     
+}
+
+.tabla-informe {
+    width: 97%;
+    height: 40px;
+    background: #F9B133;
+    margin: 0 0 0 15px;
+     
+}
+
+.input-buscador {
+    margin: -30 -90 0 1090px;
+    width: 220px;
+    height: 30px;
+}
+
+.btn-accion-modificar{
+    background: #F9C246;
+    width: 90px;
+    height: 30px;
+    margin: 5 0 0 -18px;
+    font-family: Georgia, Cambria, Times, "Arial";
+}
+
+.btn-accion-pc{
+    background: #ccc 93.5%;
+    width: 90px;
+    height: 30px;
+    margin: 5 0 0 -18px;
+    font-family: Georgia, Cambria, Times, "Arial";
+}
+
+.btn-accion-info{
+    background: #58ACFA;
+    width: 90px;
+    height: 30px;
+    margin: 5 0 0 -18px;
+    font-family: Georgia, Cambria, Times, "Arial";
+}
+
+.btn-accion-eliminar{
+    background: #FA5858;
+    width: 90px;
+    height: 30px;
+    margin: 5 0 0 -18px;
+    font-family: Georgia, Cambria, Times, "Arial";
+}
+
+.btn-accion-guardar{
+    background: #64AE4F;
+    width: 90px;
+    height: 30px;
+    margin: 5 0 0 -18px;
+    font-family: Georgia, Cambria, Times, "Arial";
+}
+
+.label {
+    color: #fff;
+}
+
+.icon-user{
+    width: 30px;
+    height: 30px;
+    margin: -2 0 0 10px;
+}
+
+.image_buscar {
+    width: 20px;
+    border: 0px;
+    position: relative;
+    
+    margin: -24 0 0 1102px;
+}
+
+.div {
+    width: 80%;
+    height: auto;
+    margin: -10 0 0 190px;
+}
+
+.img-direccion{
+    margin: -35 0 0 30px;
+    width: 55px;
+    height: 45px;
+}
+
+.img-barrio{
+    margin: -35 0 0 110px;
+    width: 50px;
+    height: 45px;
+}
+
+.login{
+    width:500px;
+    height:250px;
+    margin: 150px -190px 0px 310px;
+    float:left;
+    color:#000000;
+    border:solid 5px #cccccc;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+}
+
+.img-login{
+    width: 100px;
+    height: 100px;
+}
+
+.regresar {
+    background: #58ACFA;
+    margin: -35 1190 0 0px; 
+    width: 160px;
+    height: 35px;
+    border:hidden 3px #000000;
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+    border-radius: 16px;
+    color: #fff;
+}
+
+.regresar1 {
+    background: #58ACFA;
+    margin: 0 0 0 560px; 
+    width: 160px;
+    height: 35px;
+    border:hidden 3px #000000;
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+    border-radius: 16px;
+    color: #fff;
+}
+
+.icon-user-pc{
+    width: 30px;
+    height: 30px;
+    margin: -1 0 0 -170px;
+}
+
+.icon-user1{
+    width: 30px;
+    height: 30px;
+    margin: -20 0 0 50px;
+}
+
+.div-filtro{
+    width: 200px;
+    margin: 0 0 -25 710px;
+}
+
+.div-filtro1{
+    width: 200px;
+    margin: -34 0 0 455px;
+}
+
+.desde{
+    margin: 0 0 -34 405px;
+}
+
+.tr{
+    background: #fff;
+}
+
+.td{
+    font-family: Georgia, Cambria, Times, "Arial";
+}
+
+.button-estado{
+    margin: 0 0 0 1px;
+
+}
+
+.tabla-mensaje{
+    background: #5cb85c;
+    width: 97%;
+    height: 40px;
+    margin: 170 0 0 20px;
+    font-family: Georgia, Cambria, Times, "Arial";
+    border:solid 0px #cccccc;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    color:#fff;
+}
+
+.footer1{
+    margin: 260 0 0 0px;
+}
+
+.footer-formularios{
+    margin: 90 0 0 0px;
+}
+
+.td-informe{
+    font-family: Georgia, Cambria, Times, "Arial";
+    font-size:18px;
+}
+
+.td-resultado{
+    font-family: Georgia, Cambria, Times, "Arial";
+    font-size:16px;
+}
+
+.footer-reporte{
+    margin: 190 0 0 0px;
+}
